@@ -39,8 +39,6 @@ Me chamo Nicole Zion Raspante, tenho 21 anos e sou de Marília, interior de São
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
-/>
 <img 
     align="left" 
     alt="PHP" 
@@ -66,6 +64,8 @@ Me chamo Nicole Zion Raspante, tenho 21 anos e sou de Marília, interior de São
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br clear="left" />
+
 ### 📊 Estatísticas
 
 | Tecnologia | Dominância               |
@@ -75,4 +75,3 @@ Me chamo Nicole Zion Raspante, tenho 21 anos e sou de Marília, interior de São
 | CSS        | 🟪🟪🟪 15%               |
 | Python     | 🟩🟩🟩 15%               |
 | Git        | 🟧 5%                   |
-
