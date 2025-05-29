@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Software`**
 
-Me chamo Nicole Zion Raspante, tenho 21 anos e sou de Marília, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimar. Sou apaixonada por tecnologia e atuo como estagiária de desenvolvimento de software na Biz Commerce. Estou sempre em busca de crescimento profissional e novos aprendizados. Deixo aqui meu Linkedin — [Nicole Zion Raspante](https://www.linkedin.com/in/nicole-zion-raspante-a94263234/) — para conexões e conversas sobre tecnologia!
+Me chamo Nicole Zion Raspante, tenho 21 anos e sou de Marília, interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimar. Sou apaixonada por tecnologia e atuo como estagiária de desenvolvimento de software na BizCommerce. Estou sempre em busca de crescimento profissional e novos aprendizados. Deixo aqui meu Linkedin — [Nicole Zion Raspante](https://www.linkedin.com/in/nicole-zion-raspante-a94263234/) — para conexões e conversas sobre tecnologia!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nicole-zion-raspante-a94263234/">
